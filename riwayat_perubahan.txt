@@ -1,0 +1,64 @@
+v.1.0.0 (04 Maret 2020)
+- rilis
+
+v.1.1.0 (05 Maret 2020)
+- Perbaikan tampilan menu navigasi error jika menunya ada banyak
+- Perbaikan tampilan postingan di homepage error karena konflik dengan kode di dalam postingan
+
+v.1.2.0 (13 Maret 2020)
+- Perbaikan breadcrumb dobel di halaman produk jika postingan produk menggunakan label lain selain "Produk" atau "Jasa"
+- Perbaikan menu navigasi versi mobile tidak tampil semua jika menunya ada banyak
+- Perbaikan tombol order via whatsapp error jika judul postingan mengandung tanda petik
+- Perbaikan caption tidak menyatu dengan gambar
+- Perbaikan nama author, komentar, dan label tidak bisa dinonaktifkan melalui tata letak
+- Tambah CSS tombol download sama seperti VioMagz (cara penerapan silakan baca panduan)
+- Perbaikan aspek rasio thumbnail "no image" / postingan tanpa gambar
+
+v.1.3.0 (17 Maret 2020)
+- Perbaikan menu edit HTML di dashboard versi klasik sering crash
+- Perbaikan fitur auto fullwidth gambar pertama postingan di versi mobile
+- Tambah opsi ganti judul TOC melalui widget kode pengaturan template
+- Tambah opsi menampilkan full artikel di homepage (cara penerapan silakan baca panduan)
+- Tambah widget menu halaman statis di footer
+
+v.1.4.0 (27 Maret 2020)
+- Perbaikan widget Featured Post terkadang muncul di halaman postingan ketika pertama kali pasang template
+- Perbaikan caption gambar pertama postingan tidak fullwidth
+- Perbaikan teks di dalam tag pre keluar batas
+- Perbaikan angka pada TOC tidak urut di browser firefox
+- Tambah default menu "Beranda" pada menu navigasi
+
+v.1.5.0 (03 April 2020)
+- Perbaikan fitur tombol pencarian, menu sticky, dan scroll to top tidak berfungsi di browser internet explorer
+- Perbaikan jarak iklan di tengah artikel dengan paragraf kurang rapi
+- Perbaikan angka pada TOC yang terkadang tidak muncul
+- Tambah support icon media sosial whatsapp, pinterest, google maps, dan telegram
+- Tambah fitur sidebar sticky (hanya berfungsi di browser modern)
+- Tambah opsi untuk menonaktifkan fitur fullwidth gambar pertama postingan melalui widget kode pengaturan template
+- Tambah opsi show/hide pada TOC
+
+v.1.6.0 (10 April 2020)
+- Tambah fitur related posts di tengah artikel
+- Tambah 3 pilihan warna default template yaitu hitam, merah, hijau
+- Perbaikan warna tombol scroll to top tidak menyesuaikan dengan warna menu navigasi
+- Perbaikan iklan auto-ads AdSense muncul di lokasi-lokasi yang kurang pas
+- Perbaikan ukuran iklan AdSense responsive tidak menyesuaikan dengan ruang yang tersedia
+- Perbaikan nama label postingan tidak muncul di homepage jika postingan tanpa gambar
+- dan beberapa perbaikan-perbaikan kecil lainnya
+
+v.1.7.0 (13 April 2020)
+- Perbaikan paragraf saling dempet jika related post di tengah postingan tidak ada atau dinonaktifkan
+- Perbaikan paragraf saling dempet di halaman produk
+- Perbaikan postingan yang sedang dibaca ikut muncul pada related posts di bawah postingan
+- Perbaikan tampilan daftar produk terkadang acak-acakan jika di dalam deskripsi produk memuat tag <b>
+- Perbaikan iklan di tengah artikel menumpuk di bawah jika paragraf postingan ada sedikit
+- Perubahan secara default postingan produk ditampilkan di homepage, di versi sebelumnya tidak
+
+v.1.8.0 (17 April 2020)
+- Perbaikan paragraf kadang-kadang masih ada yang dempet
+- Perbaikan judul widget HTML tidak muncul
+- Tambah opsi untuk merubah ukuran logo di menu desainer tema
+- Tambah opsi untuk mengatur jumlah related posts lewat widget kode pengaturan template
+- Informasi harga pada postingan produk ditampilkan di halaman depan
+- TOC (table of content) bisa dipasang di halaman statis
+- Optimasi kecepatan loading. Skor GTmetrix menjadi 100/100, skor versi sebelumnya 99/100
